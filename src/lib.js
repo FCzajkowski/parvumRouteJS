@@ -1,7 +1,8 @@
 export class Router {
 
     constructor(root) {
-        this.root = root
+        this.root = document.body.appendChild(document.createElement("div"));
+        this.root.id = "parvumApp"
         this.routesMap = new Map()
     }
 
