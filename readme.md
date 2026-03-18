@@ -1,6 +1,6 @@
 # ParvumRoute - Lightweight SPA Router
 
-A minimal yet powerful client-side router for Single Page Applications. **Parvum** = "small" in Latin.
+A minimal yet powerful client-side router for Single Page Applications.
 
 ## 🚀 Features
 
