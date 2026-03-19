@@ -28,6 +28,7 @@ A minimal yet powerful client-side router for Single Page Applications.
 
 ## 🎯 Basic Usage
 
+
 ### Initialize the Router
 
 ```javascript
