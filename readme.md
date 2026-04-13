@@ -4,6 +4,7 @@ A minimal yet powerful client-side router for Single Page Applications.
 
 ## 🚀 Features
 
+
 - ✅ **Route Parameters** - Dynamic routes with `:param` syntax
 - ✅ **Query String Parsing** - Automatic URL search parameter extraction
 - ✅ **Active Link Detection** - Auto-highlight current route in navigation
